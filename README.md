@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas
 
-I'm a cybersecurity automation developer based in Chicago. I love building tools that make security easy and scalable.
+I'm a cybersecurity automation developer based in Michigan. I love building and useing tools that help automate and secure devices and tasks.
 
 ## 🧪 Featured Projects
 
@@ -22,9 +22,3 @@ Explore all my repositories to see more!
 
 My personal website showcases my projects and blog posts. Check it out at [cyberportfolio](https://lucas0x24.github.io).
 
-## 💌 How to reach me
-
-- **Email:** lucashermiz@gmail.com
-- **Location:** Chicago, IL, USA
-
-Thanks for stopping by! Feel free to open issues or reach out if you'd like to collaborate.
