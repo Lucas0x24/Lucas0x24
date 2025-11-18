@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Lucas
+#  Hi, I'm Lucas
 
 I'm a cybersecurity automation developer based in Michigan. I love building and useing tools that help automate and secure devices and tasks.
 
-## 🧪 Featured Projects
+##  Featured Projects
 
 - **PasswordStrengthChecker** — Rates password strength and suggests improvements.
 - **FileEncryptionTool** — Encrypts files using AES-256 with integrity checks.
@@ -18,7 +18,7 @@ I'm a cybersecurity automation developer based in Michigan. I love building and 
 
 Explore all my repositories to see more!
 
-## 🌐 Portfolio
+## Portfolio
 
 My personal website showcases my projects and blog posts. Check it out at [cyberportfolio](https://lucas0x24.github.io).
 
